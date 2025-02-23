@@ -5,6 +5,9 @@ class Solution:
         solution is to have a stack that keeps count of all open parantheses.
         every time we loop over a closing paranthese, we check if the top of the stack
         holds the corresponding opening paranthese
+
+        time: O(n)
+        space: O(n)
         """
 
         open_brackets = ["[", "(", "{"]

@@ -3,6 +3,9 @@ class Solution:
         """
         Going through a list of numbers we want to check whether or not we've seen a number that would sum up to the target.
         If so, we return the indices of the two numbers.
+
+        time: O(n)
+        space: O(n)
         """
         seen = {}
         for i in range(len(nums)):
