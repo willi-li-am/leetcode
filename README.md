@@ -12,10 +12,11 @@ H[1-3] = Solved with 1 to 3 hints used
 
 E = Solved with explanation
 
-1. [Rotting Oranges (Medium)](https://leetcode.com/problems/rotting-oranges) (1st)
-2. [Course Schedule II (Medium)](https://leetcode.com/problems/course-schedule-ii) (1st)
-3. [Course Schedule (Medium)](https://leetcode.com/problems/course-schedule) (1st)
-4. [Flood Fill (Easy)](https://leetcode.com/problems/flood-fill) (Here I start to do graph problems)
-5. [Valid Parantheses (Easy)](https://leetcode.com/problems/merge-two-sorted-lists)
-6. [Merge Two Sorted Lists (Easy)](https://leetcode.com/problems/merge-two-sorted-lists)
-7. [Two Sum (Easy)](https://leetcode.com/problems/two-sum)
+1. [Number of Sub-arrays With Odd Sum (Medium)](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/description/?envType=daily-question&envId=2025-02-25) (daily 1st)
+2. [Rotting Oranges (Medium)](https://leetcode.com/problems/rotting-oranges) (1st)
+3. [Course Schedule II (Medium)](https://leetcode.com/problems/course-schedule-ii) (1st)
+4. [Course Schedule (Medium)](https://leetcode.com/problems/course-schedule) (1st)
+5. [Flood Fill (Easy)](https://leetcode.com/problems/flood-fill) (Here I start to do graph problems)
+6. [Valid Parantheses (Easy)](https://leetcode.com/problems/merge-two-sorted-lists)
+7. [Merge Two Sorted Lists (Easy)](https://leetcode.com/problems/merge-two-sorted-lists)
+8. [Two Sum (Easy)](https://leetcode.com/problems/two-sum)
