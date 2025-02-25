@@ -7,7 +7,9 @@ Currently following [Grind 75](https://www.techinterviewhandbook.org/grind75/?mo
 ## Problems I've done:
 ### This is basically my leetcode journal
 1st = Solved for first time
+
 H[1-3] = Solved with 1 to 3 hints used
+
 E = Solved with explanation
 
 7. [Rotting Oranges (Medium)](https://leetcode.com/problems/rotting-oranges) (1st)
