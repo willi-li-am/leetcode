@@ -12,7 +12,7 @@ H[1-3] = Solved with 1 to 3 hints used
 
 E = Solved with explanation
 
-1. [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/description/?envType=daily-question&envId=2025-02-26) (daily 1st)
+1. [Maximum Absolute Sum of Any Subarray (Medium)](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/description/?envType=daily-question&envId=2025-02-26) (daily 1st)
 2. [Number of Sub-arrays With Odd Sum (Medium)](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/description/?envType=daily-question&envId=2025-02-25) (daily 1st)
 3. [Rotting Oranges (Medium)](https://leetcode.com/problems/rotting-oranges) (1st)
 4. [Course Schedule II (Medium)](https://leetcode.com/problems/course-schedule-ii) (1st)
